@@ -1,5 +1,10 @@
-# Final Project (Unity)
-2D art + Unity scenes from my COSC 4348 Intro to Game Art
+# Killer Clown 2D Game Art
+Hand-drawn sprites and Unity implementation for a 2D action platformer.
+
+
+<p align="center">
+
+</p>
 
 ## Gallery
 
