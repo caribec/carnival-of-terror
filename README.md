@@ -32,8 +32,6 @@ I designed and animated the main character (MC) and enemy characters (EC), built
 - C# (VS Code)
 - Clip Studio
   
-## License
-Code is released under the MIT License.
-Art assets © 2025 Carissa Becerra — personal/non-commercial use only.
+
 
 
